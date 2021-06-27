@@ -1,4 +1,4 @@
-#!/home/njeri/rest_apis/django-rest/bin/python3
+#!/home/njeri/rest_apis/django-rest/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
