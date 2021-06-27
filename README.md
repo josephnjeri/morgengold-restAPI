@@ -1,3 +1,6 @@
+# Virtual enviroment
+Check this link (if it still exists):
+        - https://code.visualstudio.com/docs/python/tutorial-django
 # How to create a rest API
 1. Set up Django
 2. Create a model in the database that the Django ORM (Object Relational Mapper) will manage
